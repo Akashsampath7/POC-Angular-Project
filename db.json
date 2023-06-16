@@ -1,0 +1,222 @@
+{
+  "posts": [
+    {
+      "id": 31,
+      "firstName": "gopi",
+      "lastName": "austin",
+      "email": "gopi@gmail.com",
+      "mobile": "8976543214",
+      "gender": "female",
+      "fatherName": "senthil",
+      "motherName": "nivetha",
+      "address": "44/9 street",
+      "classlist": "Class 6",
+      "dob": "2023-06-01"
+    },
+    {
+      "id": 32,
+      "firstName": "kamesh",
+      "lastName": "ravi",
+      "email": "ravi@gmail.com",
+      "mobile": "9879867867",
+      "gender": "male",
+      "fatherName": "siva",
+      "motherName": "guru",
+      "address": "22/90 siva colony, goa",
+      "classlist": "Class 5",
+      "dob": "2023-05-31"
+    },
+    {
+      "id": 33,
+      "firstName": "virat",
+      "lastName": "king",
+      "email": "kohli@gmail.com",
+      "mobile": "8897892344",
+      "gender": "male",
+      "fatherName": "pradeep",
+      "motherName": "sadowp",
+      "address": "dwio8eo",
+      "classlist": "Class 3",
+      "dob": "2023-06-02"
+    },
+    {
+      "id": 35,
+      "firstName": "ram",
+      "lastName": "Prakash",
+      "email": "jairam@gmail.com",
+      "mobile": "9868758477",
+      "gender": "male",
+      "fatherName": "Surya",
+      "motherName": "keerthi",
+      "address": "9th street",
+      "classlist": "Class 4",
+      "dob": "2023-05-31"
+    },
+    {
+      "id": 36,
+      "firstName": "Jonny",
+      "lastName": "Baristrow",
+      "email": "jonny@gmail.com",
+      "mobile": "8976546370",
+      "gender": "male",
+      "fatherName": "Sam",
+      "motherName": "Curran",
+      "address": "5th street, USA",
+      "classlist": "Class 9",
+      "dob": "2023-06-01"
+    },
+    {
+      "id": 37,
+      "firstName": "Joe",
+      "lastName": "Root",
+      "email": "root@gmail.com",
+      "mobile": "8783783678",
+      "gender": "male",
+      "fatherName": "Tom",
+      "motherName": "Curran",
+      "address": "61/1 South Africa",
+      "classlist": "Class 8",
+      "dob": "2023-05-31"
+    },
+    {
+      "id": 38,
+      "firstName": "Carron",
+      "lastName": "Green",
+      "email": "carron@gmail.com",
+      "mobile": "9876786543",
+      "gender": "male",
+      "fatherName": "Pat",
+      "motherName": "Cummins",
+      "address": "2nd street",
+      "classlist": "Class 5",
+      "dob": "2023-06-01"
+    },
+    {
+      "id": 39,
+      "firstName": "Buttler",
+      "lastName": "Warner",
+      "email": "buttler@gmail.com",
+      "mobile": "9878675647",
+      "gender": "male",
+      "fatherName": "David",
+      "motherName": "Tim",
+      "address": "45th street",
+      "classlist": "Class 8",
+      "dob": "2023-05-31"
+    },
+    {
+      "id": 42,
+      "firstName": "wfee",
+      "lastName": "name",
+      "email": "firstname@gmail.com",
+      "mobile": "9878675647",
+      "gender": "female",
+      "fatherName": "name",
+      "motherName": "singh",
+      "address": "dwio8eo",
+      "classlist": "Class 3",
+      "dob": "2023-05-31"
+    },
+    {
+      "id": 43,
+      "firstName": "aarthi",
+      "lastName": "aruna",
+      "email": "aarthi@gmail.com",
+      "mobile": "9898766546",
+      "gender": "female",
+      "fatherName": "govinda",
+      "motherName": "vaishnavi",
+      "address": "5th colony",
+      "classlist": "Class 3",
+      "dob": "2023-06-01"
+    },
+    {
+      "id": 44,
+      "firstName": "santha",
+      "lastName": "kumar",
+      "email": "santh@gmail.com",
+      "mobile": "8987676545",
+      "gender": "male",
+      "fatherName": "jai",
+      "motherName": "ganesh",
+      "address": "8/3, street",
+      "classlist": "Class 2",
+      "dob": "2023-06-02"
+    },
+    {
+      "id": 46,
+      "firstName": "parthiban",
+      "lastName": "arul",
+      "email": "parthiban#@gmail.com",
+      "mobile": "9879867587",
+      "gender": "male",
+      "fatherName": "aravind",
+      "motherName": "komathi",
+      "address": "2nd street",
+      "classlist": "Class 3",
+      "dob": "2023-06-01"
+    }
+  ],
+  "comments": [],
+  "signupUsers": [
+    {
+      "fullname": "akash",
+      "role": "student",
+      "email": "akash@gmail.com",
+      "password": "YWthc2g=",
+      "mobile": 8787685789,
+      "id": 9
+    },
+    {
+      "fullname": "saimanoj",
+      "role": "admin",
+      "email": "saimanoj@gmail.com",
+      "password": "YmFsYQ==",
+      "mobile": 8978567898,
+      "id": 10
+    },
+    {
+      "fullname": "lokesh",
+      "role": "teacher",
+      "email": "lokesh@gmail.com",
+      "password": "dmlub3RoYWdhbg==",
+      "mobile": 8987567439,
+      "id": 11
+    },
+    {
+      "fullname": "kamesh",
+      "role": "student",
+      "email": "kamesh@gmail.com",
+      "password": "a2FtZXNo",
+      "mobile": 8978675867,
+      "id": 12
+    },
+    {
+      "fullname": "logaraj",
+      "role": "teacher",
+      "email": "logaraj@gmail.com",
+      "password": "bG9nYXJhag==",
+      "mobile": 8976856475,
+      "id": 13
+    },
+    {
+      "fullname": "diwakar",
+      "role": "admin",
+      "email": "diwakar@gmail.com",
+      "password": "ZGl3YWthcg==",
+      "mobile": 9878765678,
+      "id": 14
+    },
+    {
+      "fullname": "jagan",
+      "role": "admin",
+      "email": "jagan@gmail.com",
+      "password": "amFnYW4=",
+      "mobile": "8798675867",
+      "id": 15
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
